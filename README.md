@@ -1,2 +1,2 @@
-# 3300-salary-prediction-model
+# 3300-salary-prediction
 ML model for salary prediction
